@@ -22,4 +22,4 @@ This is the scientific gold standard from psychology, controlled environment col
 
 Found [here](https://www.kaggle.com/datasets/zeeshanaliii/big-five-dataset?select=big_five_val_set.csv), no explanation was provided
 
-Cleaned file is ```data/kaggle_cleaned.csv```
+Cleaned file is ```data/kaggle_cleaned.csv```, using ```prepare_bigfive_kaggle.ipynb```
