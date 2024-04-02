@@ -1,7 +1,6 @@
-# Fine Tuning DistilBERT for Multiclass Text Classification
+# Fine Tuning LLM for Multilabel Text Classification
 
-Notebook for fine tuning the DistilBERT model, accuracy 99%
-
+Notebook for fine tuning LLMs for classifying the Big Five Personality texts
 
 ## Data for training
 
@@ -17,3 +16,10 @@ Data source: [automoto/big-five-data](https://github.com/automoto/big-five-data?
 ```data/essays.csv, data/mypersonality_final.csv```
 
 This is the scientific gold standard from psychology, controlled environment collected stream of consciousness by James Pennebaker and Laura King labelled with Big Five personality traits. See: http://web.archive.org/web/20160519045708/http://mypersonality.org/wiki/doku.php?id=wcpr13
+
+
+### Kaggle
+
+Found [here](https://www.kaggle.com/datasets/zeeshanaliii/big-five-dataset?select=big_five_val_set.csv), no explanation was provided
+
+Cleaned file is ```data/kaggle_cleaned.csv```
