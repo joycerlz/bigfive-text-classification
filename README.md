@@ -1,6 +1,8 @@
 # Fine Tuning LLM for Multilabel Text Classification
 
-Notebook for fine tuning LLMs for classifying the Big Five Personality texts
+Fine tuning LLMs for classifying the Big Five Personality texts
+
+[This doc](https://docs.google.com/document/d/13EYNjZmiPtRzb34k3gXyNyjMSfHlD0emY1oKaDg_kfQ/edit) records some of the models I've tried so far
 
 ## Data for training
 
