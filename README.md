@@ -1,5 +1,7 @@
 # Fine Tuning LLM for Multilabel Text Classification
 
+```DTB_multiclass_ocean.ipynb``` was the most successful finetuned model with 94% accuracy
+
 Fine tuning LLMs for classifying the Big Five Personality texts
 
 [This doc](https://docs.google.com/document/d/13EYNjZmiPtRzb34k3gXyNyjMSfHlD0emY1oKaDg_kfQ/edit) records some of the models I've tried so far
