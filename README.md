@@ -1,12 +1,10 @@
 # Fine Tuning DistilBERT for Multiclass Text Classification
 
-```DTB_multiclass_ocean.ipynb``` was the most successful finetuned model with 94% accuracy
+This repo consists of my experimentation of researching and fine-tuning LLMs for texts classification using the Big Five Personality Traits
 
-Fine tuning LLMs for classifying the Big Five Personality texts
+```DTB_multiclass_ocean.ipynb``` is the final, best-performing finetuned DistilBERT model with 94% accuracy
 
-[This doc](https://docs.google.com/document/d/13EYNjZmiPtRzb34k3gXyNyjMSfHlD0emY1oKaDg_kfQ/edit) records some of the models I've tried so far
-
-## Data for training
+## Data
 
 ### Big five personality trait scores
 ```data/big_five_scores.csv, data/trait_scoring_keys.csv```
