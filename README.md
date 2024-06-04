@@ -1,4 +1,4 @@
-# Fine Tuning LLM for Multilabel Text Classification
+# Fine Tuning DistilBERT for Multiclass Text Classification
 
 ```DTB_multiclass_ocean.ipynb``` was the most successful finetuned model with 94% accuracy
 
