@@ -1,4 +1,4 @@
-# Finetning DistilBERT for Multiclass Text Classification
+# Finetuning DistilBERT for Multiclass Text Classification
 
 This repository contains two text classification models designed for specific NLP tasks:
 
@@ -8,7 +8,7 @@ This repository contains two text classification models designed for specific NL
 
 ## Application
 
-Both models are accessible on my Hugging Face account: [joycerlz/distilbert-personality](https://huggingface.co/joycerlz/distilbert-personality) and [joycerlz/distilbert-binary-polar](https://huggingface.co/joycerlz/distilbert-binary-polar)
+Both finetuned models are accessible on my Hugging Face account: [joycerlz/distilbert-personality](https://huggingface.co/joycerlz/distilbert-personality) and [joycerlz/distilbert-binary-polar](https://huggingface.co/joycerlz/distilbert-binary-polar)
 
 ## Data Cleaning
 
