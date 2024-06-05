@@ -1,14 +1,14 @@
 # Finetning DistilBERT for Multiclass Text Classification
 
-This repo consists of my experimentation of researching and fine-tuning LLMs for texts classification using the Big Five Personality Traits
+This repository contains two text classification models designed for specific NLP tasks:
 
-```DTB_multiclass_ocean.ipynb``` is the final, best-performing finetuned DistilBERT model with 94% accuracy
+- **Personality Detector Model**: Finetuned to detect personality traits from texts based on the Big Five personality framework. 
+
+- **Negative Statement Detector Model**: Specifically trained to identify negative statements in texts, improving the accuracy of the Personality Detector Model.
 
 ## Application
 
-Both models are avaiable on my Hugging Face account: [joycerlz/distilbert-personality](https://huggingface.co/joycerlz/distilbert-personality) and [joycerlz/distilbert-binary-polar](https://huggingface.co/joycerlz/distilbert-binary-polar)
-
-They can also be downloaded locally in the ```models/``` folder. 
+Both models are accessible on my Hugging Face account: [joycerlz/distilbert-personality](https://huggingface.co/joycerlz/distilbert-personality) and [joycerlz/distilbert-binary-polar](https://huggingface.co/joycerlz/distilbert-binary-polar)
 
 ## Data Cleaning
 
