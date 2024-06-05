@@ -4,6 +4,12 @@ This repo consists of my experimentation of researching and fine-tuning LLMs for
 
 ```DTB_multiclass_ocean.ipynb``` is the final, best-performing finetuned DistilBERT model with 94% accuracy
 
+## Application
+
+Both models are avaiable on my Hugging Face account: [joycerlz/distilbert-personality](https://huggingface.co/joycerlz/distilbert-personality) and [joycerlz/distilbert-binary-polar](https://huggingface.co/joycerlz/distilbert-binary-polar)
+
+They can also be downloaded locally in the ```models/``` folder. 
+
 ## Data Cleaning
 
 ### MTHR/OCEAN
